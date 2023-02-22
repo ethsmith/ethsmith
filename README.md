@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethsmith&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethsmith&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethsmith&theme=radical&hide_progress=true" />
 </a>
 <!--
 **ethsmith/ethsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
