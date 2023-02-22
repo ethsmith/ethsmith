@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethsmith)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethsmith&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ethsmith/ethsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
