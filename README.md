@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats-97o3r58b9-ethsmith.vercel.app/api?username=ethsmith&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-97o3r58b9-ethsmith.vercel.app/top-langs/?username=ethsmith&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethsmith&layout=compact" />
 </a>
 
 ### 🧰 Languages and Tools
