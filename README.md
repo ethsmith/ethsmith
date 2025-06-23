@@ -8,6 +8,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethsmith&layout=compact&theme=tokyonight" />
 </a>
 
+### 🔍 Interesting Info
+- 🔭 I’m currently working on ![Castle Crafters](https://github.com/ethsmith/castle-crafters), written in Java, and a Unity game!
+- 👯 I currently help make features for ![Analytikill](https://analytikill.com). Code ![here](https://github.com/darkstars31/csc-stat-viewer)
+- ⚡ Fun fact: My first professional job was coding server-side gameplay mechanics and cosmetic transaction code for Minecraft Java and Bedrock Edition for a Microsoft Bedrock Partner.
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -25,13 +30,9 @@
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 <!--
 **ethsmith/ethsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 --->
-
-### Interesting Info
-- 🔭 I’m currently working on ![Castle Crafters](https://github.com/ethsmith/castle-crafters), written in Java, and a Unity game!
-- 👯 I currently help make features for ![Analytikill](https://analytikill.com). Code ![here](https://github.com/darkstars31/csc-stat-viewer)
-- ⚡ Fun fact: My first professional job was coding server-side gameplay mechanics and cosmetic transaction code for Minecraft Java and Bedrock Edition for a Microsoft Bedrock Partner.
