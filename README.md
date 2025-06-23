@@ -9,9 +9,10 @@
 </a>
 
 ### 🔍 Interesting Info
-- 🔭 I’m currently working on ![Castle Crafters](https://github.com/ethsmith/castle-crafters), written in Java, and a Unity game!
-- 👯 I currently help make features for ![Analytikill](https://analytikill.com). Code ![here](https://github.com/darkstars31/csc-stat-viewer)
-- ⚡ Fun fact: My first professional job was coding server-side gameplay mechanics and cosmetic transaction code for Minecraft Java and Bedrock Edition for a Microsoft Bedrock Partner.
+### 🔍 Interesting Info
+- 🔭 I’m currently working on [Castle Crafters](https://github.com/ethsmith/castle-crafters) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px" />, and a Unity game <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20px" />
+- 👯 I help build [Analytikill](https://analytikill.com) — code [here](https://github.com/darkstars31/csc-stat-viewer) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20px" />
+- ⚡ Fun fact: My first professional job was coding server-side gameplay mechanics and cosmetic transaction code for Minecraft for a Microsoft Bedrock Partner. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20px" />
 
 ### 🧰 Languages and Tools
 
