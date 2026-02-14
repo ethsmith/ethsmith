@@ -1,11 +1,11 @@
 ### Hi There 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ethsmith&show_icons=true&count_private=true&theme=tokyonight&commits_year=2026" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=ethsmith&show_icons=true&count_private=true&theme=tokyonight&commits_year=2026" />
 </a>
 <!--![Ethan's Github Stats](https://github-readme-stats.vercel.app/api?username=ethsmith&show_icons=true&count_private=true)-->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethsmith&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ethsmith&layout=compact&theme=tokyonight" />
 </a>
 
 ### 🔍 Interesting Info
